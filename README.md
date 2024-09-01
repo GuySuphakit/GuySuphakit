@@ -6,7 +6,7 @@
 
 ## 🚀 Data Engineer | 🌐 Cloud Enthusiast | 💡 Analytics Specialist
 
-I am a passionate developer who loves to code and explore new technologies. I'm constantly learning and improving my skills to become a better programmer every day.
+I'm a Data Engineer at Bluebik Vulcan, passionate about leveraging data to drive insights and innovation. With a strong background in data engineering, cloud technologies, and analytics, I'm always excited to tackle complex data challenges and build scalable solutions.
 
 ### 🛠 Tech Stack
 
@@ -42,13 +42,11 @@ I am a passionate developer who loves to code and explore new technologies. I'm 
    - Twitter sentiment analysis using GCP, Kafka, and Apache Druid
 
 ### 📊 GitHub Stats
+
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuySuphakit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuySuphakit&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuySuphakit&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-### 📈 Contribution Graph
-[![Suphakit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuySuphakit&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🌐 Connect with me
 
