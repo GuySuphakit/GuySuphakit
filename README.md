@@ -48,6 +48,8 @@ I am a passionate developer who loves to code and explore new technologies. I'm 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuySuphakit&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+[![Suphakit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuySuphakit)](https://github.com/GuySuphakit/github-readme-stats)
+
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ssuphapinyo/)
