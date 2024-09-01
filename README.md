@@ -45,10 +45,8 @@ I am a passionate developer who loves to code and explore new technologies. I'm 
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuySuphakit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuySuphakit&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuySuphakit&layout=compact&theme=dark"/>
 </div>
-
-[![Suphakit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuySuphakit)](https://github.com/GuySuphakit/github-readme-stats)
 
 ### 🌐 Connect with me
 
