@@ -43,10 +43,20 @@ I am a passionate developer who loves to code and explore new technologies. I'm 
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuySuphakit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuySuphakit&layout=compact&theme=dark"/>
-</div>
+<!-- Option 1: GitHub Readme Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuySuphakit&theme=dark" alt="GuySuphakit's GitHub streak"/>
+</p>
+
+<!-- Option 2: GitHub Profile Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GuySuphakit&theme=darkhub&column=7" alt="GuySuphakit's GitHub Trophy"/>
+</p>
+
+<!-- Option 3: GitHub Profile Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuySuphakit&theme=github_dark" alt="GuySuphakit's GitHub Summary"/>
+</p>
 
 ### 🌐 Connect with me
 
