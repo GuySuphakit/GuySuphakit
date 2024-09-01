@@ -27,6 +27,14 @@ I'm a Data Engineer at Bluebik Vulcan, passionate about leveraging data to drive
 - 🏅 Azure Data Engineer Associate
 - 🏅 Google Cloud Certified Professional Data Engineer
 
+### 💼 Career Journey
+
+<div align="center">
+  <a href="https://jcv.vercel.app/ssuphapinyo">
+    <img src="https://jcv.vercel.app/ssuphapinyo" alt="Suphakit Suphapinyo's Job Career Visualizer" />
+  </a>
+</div>
+
 ### 🌟 Featured Projects
 
 1. [Medallion Robust Data Pipelines](https://github.com/GuySuphakit/Medallion-Spark-Azure-DBT/)
