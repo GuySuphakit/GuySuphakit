@@ -6,7 +6,7 @@
 
 ## 🚀 Data Engineer | 🌐 Cloud Enthusiast | 💡 Analytics Specialist
 
-I'm a Data Engineer at Bluebik Vulcan, passionate about leveraging data to drive insights and innovation. With a strong background in data engineering, cloud technologies, and analytics, I'm always excited to tackle complex data challenges and build scalable solutions.
+Analytics Engineer at SCB DataX, blending expertise in data engineering and data analytics to drive results. Graduated with a Bachelor’s degree in Business Administration, majoring in MIS from Chulalongkorn University. Certified Google Professional Data Engineer and Azure Data Engineer Associate.
 
 ### 🛠 Tech Stack
 
